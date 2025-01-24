@@ -22064,6 +22064,12 @@
         <accidental>flat-flat</accidental>
         <stem>down</stem>
         <staff>1</staff>
+        <notations>
+          <ornaments>
+            <trill-mark/>
+            <accidental-mark placement="above">flat</accidental-mark>
+            </ornaments>
+          </notations>
         </note>
       <note default-x="744.38" default-y="-25.00">
         <pitch>
@@ -22076,6 +22082,12 @@
         <type>eighth</type>
         <stem>up</stem>
         <staff>1</staff>
+        <notations>
+          <ornaments>
+            <trill-mark/>
+            <accidental-mark placement="above">flat</accidental-mark>
+            </ornaments>
+          </notations>
         </note>
       <direction placement="below">
         <direction-type>
@@ -22654,6 +22666,11 @@
         <type>quarter</type>
         <stem>up</stem>
         <staff>1</staff>
+        <notations>
+          <ornaments>
+            <trill-mark/>
+            </ornaments>
+          </notations>
         </note>
       <note print-object="no">
         <rest/>
@@ -22673,6 +22690,11 @@
         <type>quarter</type>
         <stem>up</stem>
         <staff>1</staff>
+        <notations>
+          <ornaments>
+            <trill-mark/>
+            </ornaments>
+          </notations>
         </note>
       <note print-object="no">
         <rest>
