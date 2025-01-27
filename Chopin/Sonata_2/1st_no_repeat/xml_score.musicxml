@@ -32196,6 +32196,9 @@
           <normal-notes>2</normal-notes>
         </time-modification>
         <staff>2</staff>
+        <notations>
+          <tuplet number="1" type="start"/>
+        </notations>
       </note>
       <note default-x="220">
         <pitch>
@@ -32526,6 +32529,9 @@
           <normal-notes>2</normal-notes>
         </time-modification>
         <staff>2</staff>
+        <notations>
+          <tuplet number="1" type="start"/>
+        </notations>
       </note>
       <note default-x="111">
         <pitch>
