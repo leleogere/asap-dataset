@@ -108,12 +108,6 @@
         <staff>1</staff>
         <sound tempo="110" />
         </direction>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>72</duration>
@@ -256,12 +250,6 @@
         </note>
       </measure>
     <measure number="2" width="288.71">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -440,12 +428,6 @@
         </note>
       </measure>
     <measure number="3" width="343.37">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-50.00">
         <pitch>
           <step>C</step>
@@ -709,12 +691,6 @@
         </note>
       </measure>
     <measure number="4" width="272.91">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <octave-shift type="down" size="8" number="1" default-y="45.56" />
@@ -931,12 +907,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>72</duration>
@@ -1084,12 +1054,6 @@
         </note>
       </measure>
     <measure number="6" width="289.63">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -1275,12 +1239,6 @@
         </note>
       </measure>
     <measure number="7" width="362.96">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="20.42" default-y="-50.00">
         <pitch>
           <step>C</step>
@@ -1554,12 +1512,6 @@
         </note>
       </measure>
     <measure number="8" width="267.66">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <octave-shift type="down" size="8" number="1" default-y="45.56" />
@@ -1781,12 +1733,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>72</duration>
@@ -1926,12 +1872,6 @@
         </note>
       </measure>
     <measure number="10" width="275.00">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -2108,12 +2048,6 @@
         </note>
       </measure>
     <measure number="11" width="353.07">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-50.00">
         <pitch>
           <step>C</step>
@@ -2397,12 +2331,6 @@
         </note>
       </measure>
     <measure number="12" width="287.57">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -2620,12 +2548,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -2789,12 +2711,6 @@
         </note>
       </measure>
     <measure number="14" width="334.35">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -2959,12 +2875,6 @@
         </note>
       </measure>
     <measure number="15" width="260.89">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="20.00">
         <pitch>
           <step>C</step>
@@ -3034,12 +2944,6 @@
         </direction>
       </measure>
     <measure number="16" width="227.11">
-      <backup>
-        <duration>36</duration>
-        </backup>
-      <backup>
-        <duration>36</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -3097,12 +3001,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>36</duration>
-        </backup>
-      <backup>
-        <duration>36</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <words default-y="40.00" relative-y="50.00" font-size="10">(La Biondina in Gondoletta)   CANZONE del Cavaliere PERUCHINI</words>
@@ -3198,12 +3096,6 @@
         </note>
       </measure>
     <measure number="18" width="268.90">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <words default-y="40.00" relative-y="26.00" font-style="italic">sempre dolcissimo</words>
@@ -3469,12 +3361,6 @@
         </direction>
       </measure>
     <measure number="19" width="235.85">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -3689,12 +3575,6 @@
         </direction>
       </measure>
     <measure number="20" width="253.12">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.94" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -3991,12 +3871,6 @@
         </direction>
       </measure>
     <measure number="21" width="260.88">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="17.80" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -4226,12 +4100,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="117.73" default-y="-35.00">
         <pitch>
           <step>F</step>
@@ -4470,12 +4338,6 @@
         </note>
       </measure>
     <measure number="23" width="272.84">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -4678,12 +4540,6 @@
         </note>
       </measure>
     <measure number="24" width="290.11">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.94" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -4960,12 +4816,6 @@
         </note>
       </measure>
     <measure number="25" width="280.64">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-35.00">
         <pitch>
           <step>F</step>
@@ -5191,12 +5041,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="116.99" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -5512,12 +5356,6 @@
         </note>
       </measure>
     <measure number="27" width="254.54">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -5833,12 +5671,6 @@
         </note>
       </measure>
     <measure number="28" width="379.37">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -6296,12 +6128,6 @@
         </note>
       </measure>
     <measure number="29" width="261.95">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="17.80" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -6642,12 +6468,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="116.99" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -6963,12 +6783,6 @@
         </note>
       </measure>
     <measure number="31" width="288.03">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -7284,12 +7098,6 @@
         </note>
       </measure>
     <measure number="32" width="299.08">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -7669,12 +7477,6 @@
         </note>
       </measure>
     <measure number="33" width="275.26">
-      <backup>
-        <duration>66</duration>
-        </backup>
-      <backup>
-        <duration>66</duration>
-        </backup>
       <note default-x="12.20" default-y="-35.00">
         <pitch>
           <step>F</step>
@@ -7884,12 +7686,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>6</duration>
-        </backup>
-      <backup>
-        <duration>6</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <words default-y="40.00" relative-x="19.00" relative-y="-100.00" font-style="italic">un poco rinforz.</words>
@@ -7936,12 +7732,6 @@
         </barline>
       </measure>
     <measure number="35" width="241.96">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="25.09" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -8178,12 +7968,6 @@
         </note>
       </measure>
     <measure number="36" width="320.62">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="31.50" default-y="5.00">
         <pitch>
           <step>B</step>
@@ -8468,12 +8252,6 @@
         </note>
       </measure>
     <measure number="37" width="269.30">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="14.36" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -8762,12 +8540,6 @@
         </note>
       </measure>
     <measure number="38" width="252.44">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="23.89" />
@@ -9090,12 +8862,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="129.88" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -9424,12 +9190,6 @@
           <line>2</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="25.09" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -9694,12 +9454,6 @@
         </note>
       </measure>
     <measure number="41" width="308.23">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <octave-shift type="down" size="8" number="1" default-y="44.44" />
@@ -9932,12 +9686,6 @@
         </note>
       </measure>
     <measure number="42" width="297.18">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="25.09" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -10293,12 +10041,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="129.30" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -10570,12 +10312,6 @@
         </note>
       </measure>
     <measure number="44" width="818.00">
-      <backup>
-        <duration>144</duration>
-        </backup>
-      <backup>
-        <duration>144</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <octave-shift type="down" size="8" number="1" default-y="56.67" />
@@ -11257,12 +10993,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>216</duration>
-        </backup>
-      <backup>
-        <duration>216</duration>
-        </backup>
       <note default-x="118.76" default-y="-5.00">
         <cue />
         <pitch>
@@ -12405,12 +12135,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="117.73" default-y="-35.00">
         <pitch>
           <step>F</step>
@@ -12730,12 +12454,6 @@
         </note>
       </measure>
     <measure number="47" width="284.80">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -13010,12 +12728,6 @@
         </note>
       </measure>
     <measure number="48" width="288.04">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.94" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -13367,12 +13079,6 @@
         </note>
       </measure>
     <measure number="49" width="284.80">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="17.80" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -13704,12 +13410,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="116.99" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -14035,12 +13735,6 @@
         </note>
       </measure>
     <measure number="51" width="288.09">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -14366,12 +14060,6 @@
         </note>
       </measure>
     <measure number="52" width="291.33">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.20" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -14761,12 +14449,6 @@
         </note>
       </measure>
     <measure number="53" width="282.69">
-      <backup>
-        <duration>66</duration>
-        </backup>
-      <backup>
-        <duration>66</duration>
-        </backup>
       <note default-x="12.20" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -14995,12 +14677,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>6</duration>
-        </backup>
-      <backup>
-        <duration>6</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <words default-y="40.00" relative-x="19.00" relative-y="-100.00" font-style="italic">rinforzando</words>
@@ -15051,12 +14727,6 @@
         </note>
       </measure>
     <measure number="55" width="239.68">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="25.09" default-y="-40.00">
         <pitch>
           <step>E</step>
@@ -15342,12 +15012,6 @@
         </note>
       </measure>
     <measure number="56" width="296.67">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="18.42" default-y="5.00">
         <pitch>
           <step>B</step>
@@ -15705,12 +15369,6 @@
         </note>
       </measure>
     <measure number="57" width="275.48">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="crescendo" number="1" default-y="-80.56" />
@@ -16066,12 +15724,6 @@
         </note>
       </measure>
     <measure number="58" width="263.76">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="23.89" />
@@ -16457,12 +16109,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="129.88" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -16781,12 +16427,6 @@
           <line>2</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="25.09" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -17137,12 +16777,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="18.42" default-y="-20.00">
         <pitch>
           <step>B</step>
@@ -17431,12 +17065,6 @@
         </note>
       </measure>
     <measure number="62" width="261.30">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="27.44" default-y="-10.00">
         <pitch>
           <step>D</step>
@@ -17795,12 +17423,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="129.30" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -18117,12 +17739,6 @@
         </note>
       </measure>
     <measure number="64" width="334.81">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-15.00">
         <pitch>
           <step>C</step>
@@ -18404,12 +18020,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>84</duration>
-        </backup>
-      <backup>
-        <duration>84</duration>
-        </backup>
       <note>
         <rest />
         <duration>12</duration>
@@ -19187,12 +18797,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>192</duration>
-        </backup>
-      <backup>
-        <duration>192</duration>
-        </backup>
       <note default-x="128.24" default-y="10.00">
         <cue />
         <pitch>
@@ -21145,12 +20749,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>192</duration>
-        </backup>
-      <backup>
-        <duration>192</duration>
-        </backup>
       <note default-x="128.24" default-y="-5.00">
         <cue />
         <pitch>
@@ -23040,12 +22638,6 @@
         </note>
       </measure>
     <measure number="68" width="294.73">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="4.61" default-y="-80.00" relative-x="50.00" relative-y="-2.00">
@@ -23579,12 +23171,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="128.24" default-y="-10.00">
         <cue />
         <pitch>
@@ -23975,12 +23561,6 @@
         </note>
       </measure>
     <measure number="70" width="399.75">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="crescendo" number="1" default-y="-75.00" />
@@ -24467,12 +24047,6 @@
         </note>
       </measure>
     <measure number="71" width="450.41">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="13.54" default-y="0.00">
         <pitch>
           <step>F</step>
@@ -25285,12 +24859,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="117.75" default-y="15.00">
         <pitch>
           <step>B</step>
@@ -26059,12 +25627,6 @@
         </note>
       </measure>
     <measure number="73" width="395.22">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="13.54" default-y="-5.00">
         <pitch>
           <step>E</step>
@@ -26845,12 +26407,6 @@
         </note>
       </measure>
     <measure number="74" width="387.25">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="17.80" default-y="-5.00">
         <pitch>
           <step>E</step>
@@ -27639,12 +27195,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="117.75" default-y="0.00">
         <pitch>
           <step>F</step>
@@ -28433,12 +27983,6 @@
         </note>
       </measure>
     <measure number="76" width="569.81">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="13.54" default-y="15.00">
         <pitch>
           <step>B</step>
@@ -29219,12 +28763,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="117.75" default-y="-5.00">
         <pitch>
           <step>E</step>
@@ -30005,12 +29543,6 @@
         </note>
       </measure>
     <measure number="78" width="623.43">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="13.54" default-y="0.00">
         <pitch>
           <step>F</step>
@@ -30849,12 +30381,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -31381,12 +30907,6 @@
         </note>
       </measure>
     <measure number="80" width="386.87">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -31892,12 +31412,6 @@
         </note>
       </measure>
     <measure number="81" width="372.07">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -32484,12 +31998,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -33013,12 +32521,6 @@
         </note>
       </measure>
     <measure number="83" width="561.10">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -33559,12 +33061,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -34067,12 +33563,6 @@
         </note>
       </measure>
     <measure number="85" width="375.07">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -34644,12 +34134,6 @@
         </note>
       </measure>
     <measure number="86" width="377.63">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -35289,12 +34773,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -35916,12 +35394,6 @@
         </note>
       </measure>
     <measure number="88" width="378.28">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -36542,12 +36014,6 @@
         </note>
       </measure>
     <measure number="89" width="394.01">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -37160,12 +36626,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="crescendo" number="1" default-y="-108.33" relative-x="1.44" />
@@ -37784,12 +37244,6 @@
         </note>
       </measure>
     <measure number="91" width="378.03">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>3</duration>
@@ -38314,12 +37768,6 @@
         </note>
       </measure>
     <measure number="92" width="408.77">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="27.06" default-y="-45.00">
         <cue />
         <pitch>
@@ -38853,12 +38301,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="118.33" default-y="20.00">
         <cue />
         <pitch>
@@ -39536,12 +38978,6 @@
         </note>
       </measure>
     <measure number="94" width="580.53">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note print-object="no">
         <rest />
         <duration>3</duration>
@@ -40444,12 +39880,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>75</duration>
-        </backup>
-      <backup>
-        <duration>75</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="5.29" default-y="-80.00" relative-y="10.00">
@@ -40942,12 +40372,6 @@
         </note>
       </measure>
     <measure number="96" width="374.27">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="16.17" default-y="-20.00">
         <cue />
         <pitch>
@@ -41300,12 +40724,6 @@
         </note>
       </measure>
     <measure number="97" width="248.27">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-183.86">
         <pitch>
           <step>E</step>
@@ -41464,12 +40882,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="above">
         <direction-type>
           <words default-y="40.00" font-style="italic">quieto</words>
@@ -41814,12 +41226,6 @@
         </direction>
       </measure>
     <measure number="99" width="190.31">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="-81.67" />
@@ -42062,12 +41468,6 @@
         </note>
       </measure>
     <measure number="100" width="239.37">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>12</duration>
@@ -42559,12 +41959,6 @@
         </note>
       </measure>
     <measure number="101" width="267.40">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="-75.00" />
@@ -43078,12 +42472,6 @@
         </direction>
       </measure>
     <measure number="102" width="233.63">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="5.33" default-y="-80.00">
@@ -43440,12 +42828,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="-75.00" />
@@ -43700,12 +43082,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>12</duration>
@@ -44217,12 +43593,6 @@
         </note>
       </measure>
     <measure number="105" width="238.40">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <wedge type="diminuendo" number="1" default-y="-98.30" />
@@ -44743,12 +44113,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -45051,12 +44415,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>12</duration>
@@ -45550,12 +44908,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -45849,12 +45201,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>12</duration>
@@ -46336,12 +45682,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -46598,12 +45938,6 @@
         </note>
       </measure>
     <measure number="111" width="180.51">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -46859,12 +46193,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -47130,12 +46458,6 @@
           <staff-distance>65.00</staff-distance>
           </staff-layout>
         </print>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -47391,12 +46713,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -47650,12 +46966,6 @@
         </note>
       </measure>
     <measure number="115" width="215.54">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -47911,12 +47221,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -48170,12 +47474,6 @@
         </note>
       </measure>
     <measure number="117" width="223.54">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -48443,12 +47741,6 @@
           <line>4</line>
           </clef>
         </attributes>
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="5.33" default-y="-80.00" relative-y="-10.00">
@@ -48623,12 +47915,6 @@
         </direction>
       </measure>
     <measure number="119" width="125.45">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -48766,12 +48052,6 @@
         </direction>
       </measure>
     <measure number="120" width="153.37">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>24</duration>
@@ -48937,12 +48217,6 @@
         </direction>
       </measure>
     <measure number="121" width="125.45">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -49080,12 +48354,6 @@
         </direction>
       </measure>
     <measure number="122" width="155.46">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note>
         <rest />
         <duration>72</duration>
@@ -49136,12 +48404,6 @@
         </note>
       </measure>
     <measure number="123" width="179.15">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -49451,12 +48713,6 @@
         </note>
       </measure>
     <measure number="124" width="125.45">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -49610,12 +48866,6 @@
         </note>
       </measure>
     <measure number="125" width="131.75">
-      <backup>
-        <duration>72</duration>
-        </backup>
-      <backup>
-        <duration>72</duration>
-        </backup>
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
