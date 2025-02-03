@@ -637,7 +637,7 @@
         <beam number="2">begin</beam>
         <beam number="3">begin</beam>
         <notations>
-          <tuplet type="start"/>
+          <tuplet type="start" bracket="no" show-number="none"/>
           <slur type="start" placement="below" number="1"/>
           </notations>
         </note>
