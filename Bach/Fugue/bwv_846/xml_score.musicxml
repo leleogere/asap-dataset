@@ -6118,11 +6118,13 @@
       <note default-x="131.27" default-y="-30.00">
         <pitch>
           <step>G</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>8</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <accidental>sharp</accidental>
         <stem>up</stem>
         <staff>1</staff>
         <beam number="1">begin</beam>
@@ -6293,6 +6295,7 @@
         <duration>8</duration>
         <voice>3</voice>
         <type>eighth</type>
+        <accidental>natural</accidental>
         <stem>up</stem>
         <staff>1</staff>
         <beam number="1">continue</beam>
