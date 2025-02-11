@@ -19278,59 +19278,6 @@
           <tied type="start"/>
           </notations>
         </note>
-      <note default-x="97.96" default-y="-126.00">
-        <pitch>
-          <step>B</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>5</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <staff>2</staff>
-        <beam number="1">begin</beam>
-        </note>
-      <note default-x="124.98" default-y="-121.00">
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>4</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>5</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <staff>2</staff>
-        <beam number="1">continue</beam>
-        </note>
-      <note default-x="146.38" default-y="-126.00">
-        <pitch>
-          <step>B</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>5</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <staff>2</staff>
-        <beam number="1">continue</beam>
-        </note>
-      <note default-x="173.40" default-y="-131.00">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>5</voice>
-        <type>eighth</type>
-        <accidental>natural</accidental>
-        <stem>up</stem>
-        <staff>2</staff>
-        <beam number="1">end</beam>
-        </note>
-      <backup>
-        <duration>8</duration>
-        </backup>
       <note default-x="97.96" default-y="-136.00">
         <pitch>
           <step>G</step>
@@ -19339,7 +19286,7 @@
           </pitch>
         <duration>2</duration>
         <tie type="stop"/>
-        <voice>6</voice>
+        <voice>5</voice>
         <type>eighth</type>
         <stem>down</stem>
         <staff>2</staff>
@@ -19354,7 +19301,7 @@
           <octave>3</octave>
           </pitch>
         <duration>2</duration>
-        <voice>6</voice>
+        <voice>5</voice>
         <type>eighth</type>
         <accidental>natural</accidental>
         <stem>down</stem>
@@ -19368,7 +19315,7 @@
           <octave>3</octave>
           </pitch>
         <duration>2</duration>
-        <voice>6</voice>
+        <voice>5</voice>
         <type>eighth</type>
         <stem>down</stem>
         <staff>2</staff>
@@ -19381,9 +19328,62 @@
           <octave>3</octave>
           </pitch>
         <duration>2</duration>
-        <voice>6</voice>
+        <voice>5</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        </note>
+      <backup>
+        <duration>8</duration>
+        </backup>
+      <note default-x="97.96" default-y="-126.00">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>6</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        </note>
+      <note default-x="124.98" default-y="-121.00">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>6</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="146.38" default-y="-126.00">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>6</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="173.40" default-y="-131.00">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>6</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
         <staff>2</staff>
         <beam number="1">end</beam>
         </note>
