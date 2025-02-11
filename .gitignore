@@ -2,3 +2,8 @@
 *.wav
 /asap_beat/*
 
+*.musicxml
+!xml_score.musicxml
+*.mscz
+*.mscz~
+*.png
