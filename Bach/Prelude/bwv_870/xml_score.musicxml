@@ -13778,23 +13778,7 @@
         <stem>up</stem>
         <staff>1</staff>
         </note>
-      <note default-x="134.51" default-y="-30.00">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>8</duration>
-        <tie type="start"/>
-        <voice>1</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-        <staff>1</staff>
-        <notations>
-          <tied type="start"/>
-          </notations>
-        </note>
       <note default-x="134.51" default-y="-15.00">
-        <chord/>
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -13870,9 +13854,21 @@
         <stem>down</stem>
         <staff>1</staff>
         </note>
-      <forward>
+      <note default-x="134.51" default-y="-30.00">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
         <duration>8</duration>
-        </forward>
+        <tie type="start"/>
+        <voice>2</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <staff>1</staff>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
       <note default-x="263.02" default-y="-30.00">
         <pitch>
           <step>G</step>
